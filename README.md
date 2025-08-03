@@ -197,4 +197,5 @@ For issues or questions:
 
 ---
 
-**Built with ❤️ using Python, Streamlit, and Machine Learning**
+**Built with ❤️ by Aswin**
+
